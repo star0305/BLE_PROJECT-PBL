@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659188708832",
+    "project_id": "ble-project5",
+    "storage_bucket": "ble-project5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659188708832:android:37140074b83ec629abe785",
+        "android_client_info": {
+          "package_name": "com.example.ble_project5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659188708832-c5pikv2aqblt92mk61rv9ps7mth9t5dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuKZdrOaCFk8Aia9KAeMuV502QDbi4QnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659188708832-c5pikv2aqblt92mk61rv9ps7mth9t5dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
